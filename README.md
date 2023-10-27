@@ -15,6 +15,6 @@ A movie overview showcase website
 
 # Live Deployment via Github
 
-cinemation.netlify.app
+https://cinemation.netlify.app
 
 # Studied and implemented at https://github.com/ShubhamSarda/cinemate
