@@ -17,4 +17,4 @@ A movie overview showcase website
 
 cinemation.netlify.app
 
-# Studied and implemented at https://github.com/ShubhamSarda/taskmate-react
+# Studied and implemented at https://github.com/ShubhamSarda/cinemate
