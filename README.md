@@ -4,12 +4,13 @@ A movie overview showcase project
 
 # Features
 
+* ReactJS
+* TailwindCSS
 * Movies information; Current, Upcoming, Popular, Rating, IMDB
 * TMDB / Movie DB API
 * Search Movies
 * Routes
 * ENV
-* TailwindCSS
 * Light / Dark Mode
 * Mobile Responsiveness
 
