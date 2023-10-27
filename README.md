@@ -1,6 +1,6 @@
 # Cinemation
 
-A movie overview showcase project
+A movie overview showcase website
 
 # Features
 
